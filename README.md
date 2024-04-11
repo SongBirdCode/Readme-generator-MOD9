@@ -4,21 +4,29 @@
 
 ## Description & Goal
 
+An application dedicated to developing professional README.md files utilizing Node and Inquirer. 
+
+The use will be able to follow a series of questions in order to best obtain their polished README generated and ready for that git push. 
  
 
 ## Installation
 
+First, the use will need to ensure inquirer and node.js are properly installed. 
+
+Next the user will need to clone the git from here: https://github.com/SongBirdCode/Readme-generator-MOD9
+
+Once the application is installed, All the use will need to do is open terminal within index.js 
+and type in "node index.js"
 
 
 ## Usage
 
 
-
-A Video Walkthrough is included here: _____________
+A Video Walkthrough is included here: 
 
 ## Result
 
-Screen shots and video will follow upon final work as well as how to use Application.
+A functioning application to deliver polished README files for the benefit for all Software engineer types. 
 
 ## Usage
 
