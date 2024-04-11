@@ -22,8 +22,8 @@ and type in "node index.js"
 ## Usage
 
 
-A Video Walkthrough is included here: 
-
+A Video Walkthrough is included here: [
+](https://drive.google.com/file/d/1EH9pM1g8NPFYGauKkY35hPyufDpb1L0W/view)
 ## Result
 
 A functioning application to deliver polished README files for the benefit for all Software engineer types. 
