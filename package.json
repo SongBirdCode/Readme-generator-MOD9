@@ -4,20 +4,19 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
-  
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/SongBirdCode/Readme-generator-MOD9"
+        "type": "git",
+        "url": "git+https://github.com/SongBirdCode/Readme-generator-MOD9"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/SongBirdCode/Readme-generator-MOD9/issues"
+        "url": "https://github.com/SongBirdCode/Readme-generator-MOD9/install"
     },
     "homepage": "https://github.com/SongBirdCode/Readme-generator-MOD9#README.md",
     "dependencies": {
-      "inquirer": "^8.1.1"
+        "inquirer": "^8.2.4"
     }
-  }
+}
